@@ -4,7 +4,7 @@ Author: FC aka Freakyclown
 
 Contact: CygentaSecurity.com
 
-GitHub: https://github.com/CygentaSecurity/json\_viewer (placeholder)
+GitHub: [https://github.com/CygentaSecurity/json\_viewer (placeholder)](https://github.com/freakyclown/jsonviewer/)
 
 A curses-based JSON viewer for tabular data, with filtering, sorting, column selection, bookmarking, and export features.
 
